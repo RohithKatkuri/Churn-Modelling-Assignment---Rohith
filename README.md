@@ -68,7 +68,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
   - The **confusion matrix** showed that false positives (predicting a customer will churn when they won’t) were relatively common.
 
 
-## Contributions
-
-Feel free to contribute by improving feature selection, experimenting with additional models, or optimizing the dashboard visualization.
+## Contact
+katkurirohith1622@gmail.com
 
