@@ -48,7 +48,6 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 ## Model Evaluation
 
-- Used train-test split to evaluate models
 - Measured accuracy, precision, and recall
 - Analyzed confusion matrices and classification reports
 
